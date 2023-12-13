@@ -8,7 +8,8 @@ st.title("Button Linked to Image Example")
 from PIL import Image
 # Define images
 
-st.write(inputform)
+# st.write(inputform)
+# st.markdown(inputform)
 image1 = Image.open('img1.png')
 image2 = Image.open('img2.png')
 image3 = Image.open('img3.png')
